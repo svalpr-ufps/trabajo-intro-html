@@ -1,6 +1,6 @@
 /* styles.css */
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Palatino', serif;
     background-color: #f4f4f4;
     color: #333;
     margin: 0;
@@ -31,7 +31,7 @@ input {
 }
 
 button {
-    background-color: #4CAF50;
+    background-color: #4caf9e;
     color: white;
     padding: 10px;
     margin-top: 20px;
@@ -40,11 +40,11 @@ button {
 }
 
 button:hover {
-    background-color: #45a049;
+    background-color: #4caf9e;
 }
 
 a {
-    color: #4CAF50;
+    color: #4caf9e;
     text-decoration: none;
     margin-top: 20px;
     display: inline-block;
@@ -55,7 +55,7 @@ a:hover {
 }
 
 header {
-    background-color: #4CAF50;
+    background-color: #4caf9e;
     color: white;
     padding: 10px;
     text-align: center;
@@ -109,7 +109,7 @@ th, td {
 }
 
 th {
-    background-color: #4CAF50;
+    background-color: #4caf9e;
     color: white;
 }
 
@@ -122,17 +122,17 @@ tr:hover {
 }
 
 .btn-editar {
-    background-color: #FFD700; /* Color dorado para el botón de editar */
+    background-color: #2f00ff; /* Color azul :D para el botón de editar */
 }
 
 .btn-editar:hover {
-    background-color: #FFC107; /* Color más claro para el hover */
+    background-color: #8707ff; /* Color más claro para el hover */
 }
 
 .btn-eliminar {
-    background-color: #FF6347; /* Color rojo tomate para el botón de eliminar */
+    background-color: #ff47c8; /* Color rosadito :D  para el botón de eliminar */
 }
 
 .btn-eliminar:hover {
-    background-color: #FF4500; /* Color más oscuro para el hover */
+    background-color: #ff006a; /* Color rosadito magenta :D para el hover */
 }
